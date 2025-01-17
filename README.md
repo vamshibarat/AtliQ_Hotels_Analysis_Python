@@ -1,6 +1,5 @@
 # AtliQ_Hotels_Analysis_Python
 
-# Presentation Video : https://youtu.be/LoxCnNTJ1XM
 AtliQ Hotels Data Analysis Project USING PYTHON
 
 🎯 Goal: Addressing revenue decline at Atliq Grands in a competitive market through data-driven solutions!
